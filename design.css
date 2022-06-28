@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(213,225,239,255);
+    height:100%;  
+    margin: 0;
+}
+html{
+    height: 100%;
+    margin: 0;
+}
+
+.card{
+  display: flex;
+  align-items: center;
+    height: 98%;
+
+}
+.container{
+    background-color: white;
+    width: 250px;
+    height: auto;
+    margin: auto;
+    border-radius: 15px;
+    padding: 15px 10px;
+    box-shadow: 1px 2px 20px 5px rgba(150, 146, 146, 0.1);
+}
+img{
+    display: block;
+    margin: auto;
+
+    width: 95%;
+    border-radius: 7.5px;
+    
+
+}
+
+.text{
+    
+    text-align: center;
+    margin: 20px 10px 5px;
+    font-family: 'Alata', sans-serif;
+
+}
+p{
+    color: hsl(220, 15%, 55%);
+    font-weight: 0;
+    margin-top: 0;
+    font-size: 14px;
+}
+
+h3{
+    margin: 0 0 15px;
+   color: #1c2740;
+   font-size: 18px;
+}
